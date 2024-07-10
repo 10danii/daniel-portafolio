@@ -1,0 +1,22 @@
+.pe{http://127.0.0.1:3000/index.html
+    color: black;
+}
+.foto{
+    width: 50;
+    height: 50;
+}
+.pa{
+    width: 50;
+    height: 50;
+}
+
+body{
+    background-image: url(imagenes/IMG_4404.jpg);
+    color: rgb(0, 0, 0);
+   
+
+}
+
+.lol{
+     width: 20%;
+}
